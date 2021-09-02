@@ -1,4 +1,4 @@
-# Fake Generator
+# Fake Generator([Download v1.0](https://github.com/walkersumida/alfredworkflow-fake-generator/releases/download/v1.0/FakeGenerator.alfredworkflow))
 
 ![image](./resources/preview_fake_profile.png)
 
