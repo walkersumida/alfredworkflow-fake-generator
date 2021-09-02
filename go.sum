@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/walkersumida/jaker v0.4.1 h1:K3hobvsU8uuFqdtbQJeEEiP6oEmeLO8gL+pQHVaU1T4=
+github.com/walkersumida/jaker v0.4.1/go.mod h1:CgxOi8X8q+L2lVn9tY3hiIfbNUIFMD7zYunvSJLgGU4=
